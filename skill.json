@@ -2,15 +2,16 @@
     "manifest": {
         "publishingInformation": {
             "locales": {
-                "en-US": {
+                "it-IT": {
+                    "name": "Ciao Mondo",
                     "summary": "Sample Short Description",
+                    "description": "Sample Full Description",
                     "examplePhrases": [
-                        "Alexa open hello world",
-                        "hello",
-                        "help"
+                        "Alexa apri ciao mondo",
+                        "ciao",
+                        "aiuto"
                     ],
-                    "name": "Hello World",
-                    "description": "Sample Full Description"
+                    "keywords": []
                 }
             },
             "isAvailableWorldwide": true,
