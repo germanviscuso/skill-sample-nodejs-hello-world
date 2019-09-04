@@ -2,15 +2,16 @@
     "manifest": {
         "publishingInformation": {
             "locales": {
-                "en-US": {
+                "fr-FR": {
+                    "name": "Le Génie des Salutations",
                     "summary": "Sample Short Description",
+                    "description": "Sample Full Description",
                     "examplePhrases": [
-                        "Alexa open hello world",
-                        "hello",
-                        "help"
+                        "Alexa ouvre le génie des salutations",
+                        "bonjour",
+                        "aide"
                     ],
-                    "name": "Hello World",
-                    "description": "Sample Full Description"
+                    "keywords": []
                 }
             },
             "isAvailableWorldwide": true,
