@@ -2,15 +2,16 @@
     "manifest": {
         "publishingInformation": {
             "locales": {
-                "en-US": {
+                "ja-JP": {
+                    "name": "ハローワールド",
                     "summary": "Sample Short Description",
+                    "description": "Sample Full Description",
                     "examplePhrases": [
-                        "Alexa open hello world",
-                        "hello",
-                        "help"
+                        "アレクサ、ハローワールドを開いて",
+                        "こんにちは",
+                        "ヘルプ"
                     ],
-                    "name": "Hello World",
-                    "description": "Sample Full Description"
+                    "keywords": []
                 }
             },
             "isAvailableWorldwide": true,
