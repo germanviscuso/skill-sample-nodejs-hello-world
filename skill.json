@@ -2,15 +2,16 @@
     "manifest": {
         "publishingInformation": {
             "locales": {
-                "en-US": {
+                "de-DE": {
+                    "name": "Hallo Welt",
                     "summary": "Sample Short Description",
+                    "description": "Sample Full Description",
                     "examplePhrases": [
-                        "Alexa open hello world",
-                        "hello",
-                        "help"
+                        "Alexa öffne hallo welt",
+                        "hallo",
+                        "hilfe"
                     ],
-                    "name": "Hello World",
-                    "description": "Sample Full Description"
+                    "keywords": []
                 }
             },
             "isAvailableWorldwide": true,
