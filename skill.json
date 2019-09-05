@@ -2,15 +2,16 @@
     "manifest": {
         "publishingInformation": {
             "locales": {
-                "en-US": {
+                "hi-IN": {
+                    "name": "नमस्ते दुनिया",
                     "summary": "Sample Short Description",
+                    "description": "Sample Full Description",
                     "examplePhrases": [
-                        "Alexa open hello world",
+                        "Alexa मज़ेदार नमस्ते दुनिया",
                         "hello",
-                        "help"
+                        "मदद करो"
                     ],
-                    "name": "Hello World",
-                    "description": "Sample Full Description"
+                    "keywords": []
                 }
             },
             "isAvailableWorldwide": true,
